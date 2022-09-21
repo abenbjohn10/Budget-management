@@ -1,2 +1,2 @@
 # Budget-management
-# pls_put_the_3_file_in_one_folder
+## Please put the 3 files in a same folder .js,.css,.html
